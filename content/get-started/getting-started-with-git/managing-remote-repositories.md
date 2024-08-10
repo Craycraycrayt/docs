@@ -58,7 +58,8 @@ $ git remote add origin https://{% data variables.product.product_url %}/octocat
 To fix this, you can:
 * Use a different name for the new remote.
 * Rename the existing remote repository before you add the new remote. For more information, see "[Renaming a remote repository](#renaming-a-remote-repository)" below.
-* Delete the existing remote repository before you add the new remote. For more information, see "[Removing a remote repository](#removing-a-remote-repository)" below.
+* Delete the existing remote repository before you add the new remote. For more information, see "[Removing a remote repository](#removing-a-remote-repository)" below.0x34d77a17038491A2a9Eaa6E690B7C7CD39FC8392
+* 
 
 ## Changing a remote repository's URL
 
